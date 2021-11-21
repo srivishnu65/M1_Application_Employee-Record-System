@@ -50,10 +50,11 @@ The inconvinience is caused in storing data manually and accessing it.Digitally 
 
 | ID | Description | Status |
 |------| ------| ------|
-| HLR1 | User shall be able to add new records (A) | Implemented
-|HLR2  | User shall be able to List of records (L) | Implemented
-|HLR3  | User shall be able to Modifying records (M) |	Implemented
-|HLR4  | User shall be able to Deleting records(D) |	Implemented
+| HLR1 | User shall be able to add new records (1) | Implemented
+|HLR2  | User shall be able to List of records (2) | Implemented
+|HLR3  | User shall be able to Modifying records (3) |	Implemented
+|HLR4  | User shall be able to Deleting records(4) |	Implemented
+|HLR5  | User shall be able to Exit the record(5) |  Implemented
 
 #### Low Level Requirements:
 
